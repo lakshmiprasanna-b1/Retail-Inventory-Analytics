@@ -218,14 +218,14 @@ It includes:
 ## Project Structure
 
 Retail-Inventory-Analytics/
-│
-├── README.md
-├── Retail_Inventory_Analysis.ipynb
-├── retail_inventory_analysis.sql
-├── Retail_Inventory_Cleaned.csv
-├── retail_inventory_analytics.twbx
-├── Main Sales & Performance Dashboard.png
-└── Inventory & Store Analysis Dashboard.png
+
+─ README.md
+─ Retail_Inventory_Analysis.ipynb
+─ retail_inventory_analysis.sql
+─ Retail_Inventory_Cleaned.csv
+─ retail_inventory_analytics.twbx
+─ Main Sales & Performance Dashboard.png
+─ Inventory & Store Analysis Dashboard.png
 
 ## Project Workflow
 
