@@ -215,6 +215,19 @@ It includes:
 - Inventory coverage was approximately **2 days** across categories.
 - Inventory coverage was relatively consistent across stores and categories.
 
+## Project Structure
+
+```text
+Retail-Inventory-Analytics/
+│
+├── README.md
+├── Retail_Inventory_Analysis.ipynb
+├── retail_inventory_analysis.sql
+├── Retail_Inventory_Cleaned.csv
+├── retail_inventory_analytics.twbx
+├── Main Sales & Performance Dashboard.png
+└── Inventory & Store Analysis Dashboard.png
+
 ## Project Workflow
 
 1. Collected the retail inventory forecasting dataset from Kaggle.
