@@ -217,7 +217,6 @@ It includes:
 
 ## Project Structure
 
-```text
 Retail-Inventory-Analytics/
 │
 ├── README.md
