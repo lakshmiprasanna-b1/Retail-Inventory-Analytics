@@ -249,6 +249,21 @@ It includes:
 - Sales Analysis
 - GitHub
 
+## ⚠️ Limitations
+
+- The analysis is based on historical retail inventory and sales data and may not fully represent future market conditions.
+- The project focuses on descriptive and diagnostic analysis rather than building a new demand forecasting model.
+- External factors such as customer demographics, competitor promotions, supplier lead times, and stockout events were not deeply analyzed.
+  
+## 🚀 Future Scope
+
+- Develop machine learning models to predict future product demand.
+- Build automated inventory replenishment and reorder-point recommendations.
+- Incorporate supplier lead times, safety stock, and stockout information into inventory planning.
+- Develop product-level demand forecasting and inventory optimization models.
+- Add automated alerts for low inventory and potential stockout situations.
+- Extend the Tableau dashboard with advanced forecasting and what-if analysis.
+
 ## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, from data cleaning and exploratory analysis to SQL-based analysis and interactive dashboard creation. The analysis provides insights into retail sales performance, demand forecasting, inventory coverage, category performance, regional performance, and store-level performance.
