@@ -170,8 +170,7 @@ The dashboard includes:
 - Sales by Region
 - Actual Sales vs Demand Forecast
 - Interactive filters for Category, Region, and Store ID
-  ![Main Sales & Performance Dashboard](Main%20Sales%20%26%20Performance%20Dashboard.png)
-
+  
 ---
 
 ### Dashboard 2 — Inventory & Store Analysis
@@ -183,7 +182,7 @@ It includes:
 - Inventory Coverage by Category
 - Store Sales Performance
 - Category filter
-  ![Inventory & Store Analysis Dashboard](Inventory%20%26%20Store%20Analysis%20Dashboard.png)
+  
 
 ---
 
@@ -215,17 +214,17 @@ It includes:
 - Inventory coverage was approximately **2 days** across categories.
 - Inventory coverage was relatively consistent across stores and categories.
 
-## Project Structure
+## 📁 Project Structure
 
 Retail-Inventory-Analytics/
-
-─ README.md
-─ Retail_Inventory_Analysis.ipynb
-─ retail_inventory_analysis.sql
-─ Retail_Inventory_Cleaned.csv
-─ retail_inventory_analytics.twbx
-─ Main Sales & Performance Dashboard.png
-─ Inventory & Store Analysis Dashboard.png
+│
+├── README.md
+├── Retail_Inventory_Analysis.ipynb
+├── retail_inventory_analysis.sql
+├── Retail_Inventory_Cleaned.csv
+├── retail_inventory_analytics.twbx
+├── Main Sales & Performance Dashboard.png
+└── Inventory & Store Analysis Dashboard.png
 
 ## Project Workflow
 
