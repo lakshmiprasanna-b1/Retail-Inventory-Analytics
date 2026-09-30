@@ -216,16 +216,13 @@ It includes:
 
 ## 📁 Project Structure
 
-Retail-Inventory-Analytics/
-│
-├── README.md
-├── Retail_Inventory_Analysis.ipynb
-├── retail_inventory_analysis.sql
-├── Retail_Inventory_Cleaned.csv
-├── retail_inventory_analytics.twbx
-├── Main Sales & Performance Dashboard.png
-└── Inventory & Store Analysis Dashboard.png
-
+- `README.md` — Project documentation
+- `Retail_Inventory_Analysis.ipynb` — Python data cleaning and analysis
+- `retail_inventory_analysis.sql` — MySQL analysis queries
+- `Retail_Inventory_Cleaned.csv` — Cleaned dataset
+- `retail_inventory_analytics.twbx` — Tableau workbook
+- `Main Sales & Performance Dashboard.png` — Main Tableau dashboard
+- `Inventory & Store Analysis Dashboard.png` — Inventory and store dashboard
 ## Project Workflow
 
 1. Collected the retail inventory forecasting dataset from Kaggle.
